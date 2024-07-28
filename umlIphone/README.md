@@ -1,3 +1,6 @@
+# Diagrama de Classes do iPhone
+
+```mermaid
 classDiagram
     class ReprodutorMusical {
         +tocar()
